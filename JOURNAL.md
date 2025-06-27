@@ -6,6 +6,7 @@ created_at: "2025-06-23"
 ---
 Day 1 (June 27):
 11:12
+
 Goals:
 I want to make a voice assistant like Siri or Alexa. 
 I want to learn how this type of stuff works. I'm new to this, so this is going to be rough.
