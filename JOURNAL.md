@@ -27,6 +27,7 @@ I plan to use Python primarily and utilize voice recognition.
 11:22
 
 First step is to update Python because everything will be done on the terminal.
+
 11:28
 
 The system won't allow me to download the libraries, so I'm lost.
