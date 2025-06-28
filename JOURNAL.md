@@ -21,23 +21,20 @@ Speaker (3.5mm or Bluetooth)
 Case (for carrying; plan on designing it)
 
 I guess the first thing to do is to set up the Raspberry Pi so that I can upload the OS onto it.
-I plan to use Python primarily and utilize an open-source API for voice recognition, and possibly add an AI voice assistant.
+I plan to use Python primarily and utilize voice recognition.
 
 11:22
 
-First on the Raspberry Pi I need to install/check Python, so using the terminal: python3 --version, if version isn't 3.6+ O need to upgrade: sudo apt update
-sudo apt install python3 python3-pip. The reason why I need 3.6+ is because these versions are needed to use the libraries for the project. 
-
+First step is to update Python because everything will be done on the terminal.
 11:28
 
-I finished installing Python, and now I need to install the audio libraries.
-While trying to install I ran into an error saying: externally managed environment.
+The system won't allow me to download the libraries, so I'm lost.
 
 11:32
 
-The error is because the Raspberry Pi OS is preventing the installation of the audio libraries.
-The plan is to make a local folder and run it inside a Virtual Environmenmt.
+The error is because the Raspberry Pi OS is preventing.
+The plan is to make a local folder and run it inside a Virtual Environment.
 
 11:34 
 
-Finished installing the libraries. To activate the VM I need to run the command: source my_voice_env/bin/activate
+Finished installing the libraries. To activate the VM, I need to run the command: source my_voice_env/bin/activate to access.
