@@ -12,6 +12,7 @@ Goals:
 I want to make a voice assistant like Siri or Alexa. 
 I want to learn how this type of stuff works. I'm new to this, so this is going to be rough.
 Also I plan on using ChatGPT and YouTube for help.
+The plan is to run everything on my PC and export it onto the Raspberry Pi.
 
 Helpful videos: 
 https://youtu.be/nHpJaE559r4?si=kftr_ryhOFDHl-aS
