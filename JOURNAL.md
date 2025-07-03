@@ -44,3 +44,19 @@ The plan is to make a local folder and run it inside a Virtual Environment.
 11:34 
 
 Finished installing the libraries. To activate the VM, I need to run the command: source my_voice_env/bin/activate to access.
+
+Day 2 (July 3)
+
+11:32
+
+Got the API and updated the script
+
+12:35 
+
+Ran the code, and it seems to work. The only caveat is that the API key allows like 2 uses per day
+
+Day 3 (July 3)
+
+10:57
+
+Designing the case
