@@ -53,10 +53,17 @@ Got the API and updated the script
 
 12:35 
 
-Ran the code, and it seems to work. The only caveat is that the API key allows like 2 uses per day
+Ran the code, and it seems to work. The only caveat is that the API key allows 2 uses per day
 
 Day 3 (July 3)
 
 10:57
 
 Designing the case
+
+Day 4 (July 7)
+
+10:06
+
+I don't know how to use CAD, so I have to learn, might take a while. 
+
