@@ -79,4 +79,8 @@ Working on the case.
 
 <img width="1920" height="722" alt="Raspberry Pi 4 B Case" src="https://github.com/user-attachments/assets/09831099-fe67-4b30-882d-b9ecfe0679dc" />
 
+I'm about 85% finished. I have to make it into two shells for the Raspberry Pi.
+
+
+
 
