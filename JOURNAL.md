@@ -65,5 +65,13 @@ Day 4 (July 7)
 
 10:06
 
-I don't know how to use CAD, so I have to learn, might take a while. 
+I don't know how to use CAD, so I have to learn, and it might take a while. 
+
+Day 5+6 (July 15-16)
+
+11:24
+
+Working on the case.
+
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/c3addd8a-4d96-4f42-bd3d-f21f4a5dea7a" />
 
