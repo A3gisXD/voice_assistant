@@ -81,6 +81,10 @@ Working on the case.
 
 I'm about 85% finished. I have to make it into two shells for the Raspberry Pi.
 
+Day 7: (July 24)
 
+10:21 
+
+Done with the case; I'm going to work on the schematics. I want to make it work offline.
 
 
