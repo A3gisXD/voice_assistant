@@ -85,6 +85,7 @@ Day 7: (July 24)
 
 10:21 
 
-Done with the case; I'm going to work on the schematics. I want to make it work offline.
+Finished
 
+Total Hours Spent: 10 hours
 
