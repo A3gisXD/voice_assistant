@@ -11,6 +11,9 @@ I made the project because I saw TikToks of a voice assistant that was running b
 | Carrying Case | Custom-designed enclosure | N/A (planned 3D print) | 1 | $10.00 | $10.00 | Designed for portability and protection |
 **Estimated Total Cost:** **$71.00**
 
+<img width="816" height="652" alt="image" src="https://github.com/user-attachments/assets/628bc331-870e-4adc-a3ee-c25d76585dae" />
+
+
 Step-by-Step: 
 1. To run this voice assistant, you have to be on your Raspberry Pi's terminal and check if your audio devices are connected to the device.
 2. Download the necessary packages/libraries; these two are system packages: sudo apt install -y python3-venv python3-dev build-essential \
