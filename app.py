@@ -49,7 +49,7 @@ if __name__ == "__main__":
     if USE_CLOUD_STT:
         from openai import OpenAI
         client = OpenAI()
-        print("🎙️ Speak after the beep… Ctrl+C to quit.")
+        print("Speak after the beep… Ctrl+C to quit.")
         while True:
             audio_wav = record_utterance()
             # Send wav to transcription
@@ -62,7 +62,7 @@ if __name__ == "__main__":
         model = WhisperModel("base")  # try "tiny" if laggy
         from openai import OpenAI
         client = OpenAI()
-        print("🎙️ Speak after the beep… Ctrl+C to quit.")
+        print("Speak after the beep… Ctrl+C to quit.")
         while True:
             audio_wav = record_utterance()
             # Local transcription
