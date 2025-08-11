@@ -1,3 +1,5 @@
+Total Hours Spent: 10 hours
+
 ---
 title: "Raspberry Pi Voice Assistant"
 author: "Tim Weng"
@@ -87,5 +89,4 @@ Day 7: (July 24)
 
 Finished
 
-Total Hours Spent: 10 hours
 
