@@ -34,29 +34,22 @@ I plan to use Python primarily and utilize voice recognition.
 11:22
 
 First step is to update Python because everything will be done on the terminal.
-
-11:28
-
 The system won't allow me to download the libraries, so I'm lost.
-
-11:32
-
 The error is because the Raspberry Pi OS is preventing.
 The plan is to make a local folder and run it inside a Virtual Environment.
-
-11:34 
-
 Finished installing the libraries. To activate the VM, I need to run the command: source my_voice_env/bin/activate to access.
+
+Total Hours Spent: 2
 
 Day 2 (July 3)
 
 11:32
 
-Got the API and updated the script
-
-12:35 
-
+Got the API key and started work on the script
 Ran the code, and it seems to work. The only caveat is that the API key allows 2 uses per day
+Finished debugging in Raspberry Pi code editor.
+
+Total Hours Spent: 8.5
 
 Day 3 (July 3)
 
@@ -88,6 +81,14 @@ Day 7: (July 24)
 
 10:21 
 
-Finished
+Finished case
+
+Total Hours: 6
+
+Day 8: (August 11)
+
+9:43 
+
+Working on the BOM and wiring diagram (using Wokwi for wiring)
 
 
