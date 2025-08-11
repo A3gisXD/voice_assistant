@@ -49,6 +49,8 @@ Got the API key and started work on the script
 Ran the code, and it seems to work. The only caveat is that the API key allows 2 uses per day
 Finished debugging in VSCode.
 
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/f1616502-4f67-4ea0-8060-bc7174dae6d7" />
+
 Total Hours Spent: 8.5
 
 Day 3 (July 3)
