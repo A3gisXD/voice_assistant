@@ -23,4 +23,6 @@ source .venv/bin/activate
 6. Then run the code in terminal: source .venv/bin/activate
 python app.py
 
-
+Troubleshooting I've had:
+ALSA “No default device” / “Device busy”
+Re-check arecord -l / aplay -l, make sure your ~/.asoundrc card numbers match, and kill anything holding the device (PulseAudio/Bluetooth). The “set USB as default” guides walk through card ordering and defaults.
