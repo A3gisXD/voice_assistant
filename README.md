@@ -4,8 +4,7 @@ I made the project because I saw TikToks of a voice assistant that was running b
 
 | Item | Description | Example/Link | Quantity | Unit Price (USD) | Total Price (USD) | Notes |
 |------|-------------|--------------|----------|------------------|-------------------|-------|
-| Raspberry Pi 4 | Model B, 4GB or 8GB RAM | [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) | 1 | $55.00 | $55.00 | Main single-board computer; I already have a Raspberry Pi
- |
+| Raspberry Pi 4 | Model B, 4GB or 8GB RAM | [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) | 1 | $55.00 | $55.00 | Main single-board computer; I already have a Raspberry Pi|
 | MicroSD Card | 16GB or larger, Class 10/UHS-1 | [SanDisk Ultra 16GB microSDHC](https://www.sandisk.com/home/memory-cards/microsd-cards/ultra-microsd) | 1 | $6.00 | $6.00 | Holds OS and files |
 | USB Microphone | Plug-and-play USB mic | [FIFINE K669B USB Microphone](https://fifinemicrophone.com/) | 1 | $30.00 | $30.00 | For voice input |
 | Speaker | 3.5mm aux or Bluetooth | [Creative Pebble 2.0](https://www.creative.com/p/speakers/creative-pebble) | 1 | $25.00 | $25.00 | Audio output |
