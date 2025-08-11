@@ -89,6 +89,6 @@ Day 8: (August 11)
 
 9:43 
 
-Working on the BOM and wiring diagram (using Wokwi for wiring)
+Working on the BOM and wiring diagram 
 
 
