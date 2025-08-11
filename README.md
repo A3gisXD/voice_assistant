@@ -1,0 +1,2 @@
+The voice assistant is going to be a Raspberry Pi 4B that will run and output audio through a speaker whenever I ask it a question. The Raspberry Pi will run ChatGPT locally, and I plan on making it run offline, meaning it doesn't need to rely on the Internet.
+I made the project because I saw TikToks of a voice assistant that was running by itself, and it had a fish that modeled the voice assistant speaking. I also plan on using this experience to learn CAD because the best way to learn is to put work into it.
