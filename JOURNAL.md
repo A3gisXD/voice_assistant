@@ -18,7 +18,7 @@ Also I plan on using ChatGPT and YouTube for help.
 The plan is to run everything on my PC and export it onto the Raspberry Pi.
 
 Helpful videos: 
-https://youtu.be/nHpJaE559r4?si=kftr_ryhOFDHl-aS
+https://youtu.be/nHpJaE559r4?si=kftr_ryhOFDHl-aS,
 https://youtu.be/VTc-O_Sq9Xs?si=khJrI8_UeVIjEQgH
 
 Parts: 
@@ -47,7 +47,7 @@ Day 2 (July 3)
 
 Got the API key and started work on the script
 Ran the code, and it seems to work. The only caveat is that the API key allows 2 uses per day
-Finished debugging in Raspberry Pi code editor.
+Finished debugging in VSCode.
 
 Total Hours Spent: 8.5
 
