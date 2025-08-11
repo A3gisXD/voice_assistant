@@ -1,11 +1,12 @@
-Total Hours Spent: 10 hours
-
 ---
 title: "Raspberry Pi Voice Assistant"
 author: "Tim Weng"
 description: "Raspberry Pi voice assistant that is like Alexa or Siri."
 created_at: "2025-06-23"
 ---
+
+Total Hours Spent: 10 hours
+
 Day 1 (June 27):
 
 11:12
