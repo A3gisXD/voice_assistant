@@ -5,7 +5,7 @@ description: "Raspberry Pi voice assistant that is like Alexa or Siri."
 created_at: "2025-06-23"
 ---
 
-Total Hours Spent: 10 hours
+Total Hours Spent: 14 hours
 
 Day 1 (June 27):
 
